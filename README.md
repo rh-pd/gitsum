@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
