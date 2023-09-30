@@ -1,1 +1,1 @@
-ultralytics 8.0.228 add training time argument (#7054)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
