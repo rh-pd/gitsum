@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Fix IS_PYTHON_3_12 bug (#9258)
