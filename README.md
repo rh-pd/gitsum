@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Improve Coral Edge TPU guide (#8160)
