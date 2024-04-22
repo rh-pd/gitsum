@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
