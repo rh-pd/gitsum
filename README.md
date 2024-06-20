@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+Add type hinting to explorer.py (#7388)
