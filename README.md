@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
