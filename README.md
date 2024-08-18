@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Update docs building code (#7601)
