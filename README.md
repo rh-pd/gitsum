@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
