@@ -1,1 +1,1 @@
-ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
+Add YOLOv8 LibTorch C++ inference example (#7090)
