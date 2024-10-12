@@ -1,1 +1,1 @@
-FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
+ultralytics 8.0.226 Validator Path and Tuner space (#6901)
