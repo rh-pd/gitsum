@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Update HTTP to HTTPS (#7548)
