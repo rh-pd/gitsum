@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Move Explorer tests to scheduled CI (#8305)
